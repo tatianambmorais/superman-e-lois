@@ -1,0 +1,13 @@
+.topo {
+	width: 100%;
+	font-size: 22px;
+	font-family: sans-serif;
+	background-color: #4710c1;
+	color: #fff;
+	padding: 20px 0;
+}
+.topo div {
+	width: 100%;
+	max-width: 1024px;
+	margin: auto 0;
+}
